@@ -1,0 +1,3 @@
+i am learnig git command how to push the code
+`:wq
+
